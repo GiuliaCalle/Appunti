@@ -1,8 +1,9 @@
-:root {
+body {
     background-color: '#22BB44'
 }
 
-body {
+#content {
     background-color: '#000';
-    color: '#FFF'
+    color: '#FFF';
+    width: 80%;
 }
