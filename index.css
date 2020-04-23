@@ -1,5 +1,5 @@
 body {
-    background-color: #557755
+    background-color: rgba(27, 150, 27, 0.575)
 }
 
 #content {
@@ -8,6 +8,6 @@ body {
     width: 80%;
 }
 
-h1 {
-    color: #ff0
+a {
+    color: #07f
 }
