@@ -1,13 +1,13 @@
 body {
-    background-color: rgba(27, 150, 27, 0.575)
+    background-color: floralwhite;
+    font-family: OpenSans;
+    color: #0f1707;
 }
 
-#content {
-    background-color: #000;
-    color: #FFF;
-    width: 80%;
+.jumbotron {
+    background-color: #f2ffe3;
 }
 
 a {
-    color: #07f
+    color: #07f;
 }
